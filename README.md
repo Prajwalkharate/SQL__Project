@@ -1,2 +1,4 @@
 # SQL__Project
-IPL Auction Strateagy
+Developing auction strategy for new IPL franchise
+analyzing Past IPL dataset to create strong and
+balance squad using SQL.
